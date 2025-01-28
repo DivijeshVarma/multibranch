@@ -1,3 +1,3 @@
-# V2
+# V1
 
-print('Hello, world! v2')
+print('Hello, world!')
